@@ -1,2 +1,4 @@
 piexif
 Pillow
+plexapi
+mutagen
